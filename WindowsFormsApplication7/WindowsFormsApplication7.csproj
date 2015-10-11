@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SevenZipSharp">
-      <HintPath>D:\Users\Pavel\Downloads\SevenZipSharp.dll</HintPath>
+      <HintPath>.\SevenZipSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
